@@ -1,2 +1,0 @@
-# ECG-1
-SIMULASI
